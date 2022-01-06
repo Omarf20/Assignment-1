@@ -1,6 +1,5 @@
 body{
     font-family: 'Playfair Display', serif;
-    margin: 5%;
 }
 .specific-color{
     color: dodgerblue;
@@ -21,6 +20,10 @@ margin-bottom: 50px;
 .width{
     width: 50%;
     text-align: justify;
+    margin: 3%;
+}
+#margin{
+    margin: 3%;
 }
 .width img{
 width: 60%;
