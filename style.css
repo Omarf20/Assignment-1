@@ -81,4 +81,12 @@ h2{
 }
 #font{
     font-size: 30px;
+    color: white;
+}
+.background{
+    background-color: black;
+    margin: 0%;
+}
+#color{
+    color: white;
 }
